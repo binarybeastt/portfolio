@@ -3,10 +3,7 @@ logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>As a data scientist, I am passionate about using data to drive business decisions and solve complex problems.</br>
   <br>I use various tools and frameworks which range from Business Intelligence tools such as Tableau to Deep Learning frameworks such as PyTorch or Tensorflow.</br>
-  <br> I am excited to bring my expertise and drive for continuous learning to new challenges and opportunities as a data scientist.<br>
-  <br>
   <a href="https://www.linkedin.com/in/bolarinwa-ismail-1642411a4/">View My LinkedIn Profile</a> 
-  </br>
 
 theme: jekyll-theme-minimal
 google_analytics: G-7XFT2XMRYT # your Google Analytics tracking ID here
