@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Selected Projects In Computer Vision and NLP
 
-[Project 1 Title](/sample_page)
+[Maize seed defect detection using YOLO-v5 object detection framework]
+(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
