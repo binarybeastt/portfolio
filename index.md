@@ -1,11 +1,12 @@
-## Portfolio
+## Selected Projects In Computer Vision and NLP
 
 ---
 
-### Selected Projects In Computer Vision and NLP
+### Maize seed defect detection using YOLO-v5 object detection framework
 
-[Maize seed defect detection using YOLO-v5 object detection framework]
-(/sample_page)
+In this project, I built a classifier using PyTorch to accurately detect and classify defective maize seeds and separates them from the healthy seeds, this helps farmers save cultivation land and only plant seeds which are healthy. The model achieves very high accuracy and has an mAP score of over 90%. The final model was deployed as an android application.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
