@@ -13,7 +13,7 @@ In this project, I built a classifier using PyTorch to accurately detect and cla
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
 
-[View code on Colab](https://colab.research.google.com/drive/1jnIo1bITWyaZzT_TGznGtp3QTgHKvm82?usp=sharing)
+### [View code on Colab](https://colab.research.google.com/drive/1jnIo1bITWyaZzT_TGznGtp3QTgHKvm82?usp=sharing)
 
 
 ---
